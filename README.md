@@ -492,7 +492,7 @@ seekdb's hybrid retrieval + multi-model engine also fits classic AI workloads:
 
 <a id="ecosystem--integrations"></a>
 
-## 🌟 Ecosystem & Integrations
+## 🌟 Ecosystem & Integrations （here is a typo for question number 1）
 
 <div align="center">
 
@@ -594,4 +594,4 @@ If seekdb is useful to you, **a star helps others find it.** ⭐
 
 seekdb is built by the [OceanBase](https://en.oceanbase.com/) team — the same database engine running in production at Alipay, Taobao, DiDi, Xiaomi, and more. Fully open-source under the [Apache License, Version 2.0](LICENSE).
 "" 
-"OB-P:ly-MHB5QY2aeV9dOdew8Cw" 
+OB-P:ly-MHB5QY2aeV9dOdew8Cw
